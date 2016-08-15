@@ -1,6 +1,6 @@
 {
   "name": "prevue",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A boilerplate for Vue.js component-based SPA development",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yllanos/vuetiful.git"
+    "url": "git+https://github.com/yllanos/prevue.git"
   },
   "keywords": [
     "Vue.js",
@@ -22,9 +22,9 @@
   "author": "Yamil Llanos <yamil.llanos@gmail.com> (https://github.com/yllanos)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yllanos/vuetiful/issues"
+    "url": "https://github.com/yllanos/prevue/issues"
   },
-  "homepage": "https://github.com/yllanos/vuetiful#readme",
+  "homepage": "https://github.com/yllanos/prevue#readme",
   "dependencies": {
     "vue": "^1.0.26"
   },
