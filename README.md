@@ -28,17 +28,17 @@ $ npm run dev
 ├── LICENSE
 ├── README.md
 ├── gulpfile.js
-├── index.html								#Base HTML file	
-├── index.js								#This is the bundled JS file
-├── package.json
-├── src										#Code goes here	
-│   ├── components							#Components directory
-│   │   └── app-component					#Sample component dir
-│   │       ├── app-component-template.html	#Sample component template
-│   │       ├── app-component.js			#Sample component JavaScript
-│   │       └── logo.png					#Sample component JavaScript
-│   └── main.js								#Container JS file
-└── webpack.config.js
+├── index.html								                #Base HTML file	
+├── index.js								                  #This is the bundled JS file
+├── package.json                              #Project, scripts and dependencies config
+├── src										                    #Code goes here	
+│   ├── components							              #Components directory
+│   │   └── app-component					            #Sample component dir
+│   │       ├── app-component-template.html	  #Sample component template
+│   │       ├── app-component.js			        #Sample component JavaScript
+│   │       └── logo.png					            #Sample component JavaScript
+│   └── main.js								                #Container JS file
+└── webpack.config.js                         #webpack config file
 ```
 
 ### `./index.js`
